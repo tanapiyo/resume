@@ -66,7 +66,7 @@ toC向けECサイトの追加開発。人員調達とスケジュール管理お
 - チーム規模: 7人程度
 - 役割: PM
 - 使用技術:
-  - フレームワークなど: Medusa.js, JavaScript
+  - フレームワークなど: Medusa.js, JavaScript, Next.js
   - デプロイまわり: Vercel
 
 ##### 主な業務と成果
